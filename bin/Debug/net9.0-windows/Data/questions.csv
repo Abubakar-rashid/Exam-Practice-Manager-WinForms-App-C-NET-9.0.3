@@ -1,0 +1,4 @@
+﻿ID,Text,OptionA,OptionB,OptionC,OptionD,CorrectAnswer,Category,Difficulty,Type,CreatedBy,CreatedDate
+1,what is the captal of usa?,washington dc,australia,california,none,A,General Knowledge,Easy,MultipleChoice,lecturer,2025-06-10 16:03:54
+2,what is 2+2?,3,4,5,6,B,Mathematics,Easy,MultipleChoice,lecturer,2025-06-10 16:04:20
+3,what is 10 divided by 2?,4,5,6,7,B,Mathematics,Easy,MultipleChoice,lect22,2025-06-10 16:55:30

@@ -1,0 +1,14 @@
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\bin\Debug\net9.0-windows\ExamPracticeSystemFull.exe
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\bin\Debug\net9.0-windows\ExamPracticeSystemFull.deps.json
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\bin\Debug\net9.0-windows\ExamPracticeSystemFull.runtimeconfig.json
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\bin\Debug\net9.0-windows\ExamPracticeSystemFull.dll
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\bin\Debug\net9.0-windows\ExamPracticeSystemFull.pdb
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.AssemblyInfoInputs.cache
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.AssemblyInfo.cs
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.csproj.CoreCompileInputs.cache
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.dll
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\refint\ExamPracticeSystemFull.dll
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.pdb
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ExamPracticeSystemFull.genruntimeconfig.cache
+C:\Users\mar20\RiderProjects\ExamPracticeSystemFull\obj\Debug\net9.0-windows\ref\ExamPracticeSystemFull.dll
